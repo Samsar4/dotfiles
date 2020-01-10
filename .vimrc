@@ -9,3 +9,5 @@ set hlsearch
 set ruler
 set paste
 highlight Comment ctermfg=green
+set path+=**
+set wildmenu
