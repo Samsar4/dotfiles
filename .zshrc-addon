@@ -20,8 +20,7 @@ echo '\033[1;34m _    _.--.____.--._
              \\'
 echo -e '\e[92m---------------------------------------------'
 echo -e "\e[5m|                                           |\e[25m" 
-echo -e '\e[92m     [+] 30 min Python training per day'
-echo -e '\e[92m     [+] Study for CEH'
+echo -e '\e[92m     [+] Vision without execution'
+echo -e '\e[92m     [+] is an illusion.'
 echo -e "\e[5m|                                           |\e[25m" 
 echo -e '\e[92m---------------------------------------------'
-
