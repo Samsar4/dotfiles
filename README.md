@@ -1,2 +1,2 @@
 # DotFiles ~
-Personal configuration dotfiles from vim and tmux.
+Personal configuration files
